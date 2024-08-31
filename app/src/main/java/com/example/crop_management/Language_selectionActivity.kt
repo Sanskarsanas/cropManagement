@@ -50,18 +50,24 @@ fun LanguageFun(activity: ComponentActivity) {
     Column(
         modifier = Modifier
             .fillMaxSize()
+            .padding(30.dp)
             .background(Color.White),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
 
-        Text(
-            text = stringResource(id = R.string.selectlanguage),
-            fontSize = 30.sp,
-            fontWeight = FontWeight.Bold
-        )
+        Card(modifier = Modifier
+            .fillMaxSize()
+            .padding(30.dp), elevation = CardDefaults.cardElevation(5.dp)){
 
-        Card(modifier = Modifier.fillMaxSize().padding(30.dp), elevation = CardDefaults.cardElevation(5.dp)){
+            Text(
+                text = stringResource(id = R.string.selectlanguage),
+                fontSize = 30.sp,
+                fontWeight = FontWeight.Bold
+            )
+
+            Spacer(modifier = Modifier.height(30.dp))
+
             Text(text = stringResource(id = R.string.mar), modifier = Modifier.clickable {
                 AppCompatDelegate.setApplicationLocales(
                     LocaleListCompat.forLanguageTags(
@@ -75,7 +81,8 @@ fun LanguageFun(activity: ComponentActivity) {
                     activity.startActivity(it)
                 }
                 activity.finish()
-            })
+            },
+                fontSize = 20.sp, fontWeight = FontWeight.Bold)
             Spacer(modifier = Modifier.height(20.dp))
             Text(text = stringResource(id = R.string.hin), modifier = Modifier.clickable {
                 AppCompatDelegate.setApplicationLocales(
@@ -90,7 +97,8 @@ fun LanguageFun(activity: ComponentActivity) {
                     activity.startActivity(it)
                 }
                 activity.finish()
-            })
+            },
+                fontSize = 20.sp, fontWeight = FontWeight.Bold)
             Spacer(modifier = Modifier.height(20.dp))
             Text(text = stringResource(id = R.string.eng), modifier = Modifier.clickable {
                 AppCompatDelegate.setApplicationLocales(
@@ -105,7 +113,7 @@ fun LanguageFun(activity: ComponentActivity) {
                     activity.startActivity(it)
                 }
                 activity.finish()
-            })
+            },fontSize = 20.sp, fontWeight = FontWeight.Bold)
         }
     }
 }
