@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscibe">या चॅनेलची सदस्यता घ्या</string>
+    <string name="boy">या चॅनेलची सदस्यता घ्या</string>
+    <string name="girl">ती चांगली मुलगी आहे</string>
+    <string name="hello">सर्वांना नमस्कार</string>
+
+    <string name="notification">सूचना</string>
+    <string name="settings">सेटिंग</string>
+    <string name="aboutus">आमच्याबद्दल</string>
+    <string name="soldproducthistory">विक्री केलेल्या उत्पादनांचा इतिहास</string>
+    <string name="language">भाषा</string>
+
+
+
+    <string name="alerts"> महत्त्वाच्या सूचना स्मरणपत्र</string>
+    <string name="disease_detector"> रोग शोधक</string>
+    <string name="liveproduct_price"> थेट उत्पादन बाजार किंमत</string>
+    <string name="todaysweather"> आजचे हवामान</string>
+    <string name="logout">बाहेर पडा</string>
+
+    <string name="selectlanguage">कृपया तुमची भाषा निवडा</string>
+    <string name="mar">मराठी</string>
+    <string name="hin">हिंदीं</string>
+    <string name="eng">इंग्रजी</string>
+
+    <string name="selectDate">कृपया तारीख निवडा</string>
+    <string name="alertset">या तारखेला अलर्ट सेट करा</string>
+    <string name="setalertButton">स्मरणपत्र सूचना यशस्वीरित्या सेट केले आहे</string>
+
+    <string name="sellyourproducts">तुमचे उत्पादन विक्री करा</string>
+    <string name="eventname">क्रिया चे नाव</string>
+    <string name="eventexmple">उदा.. गव्हाचे बी पेरणे</string>
+
+</resources>
+
+
+
+

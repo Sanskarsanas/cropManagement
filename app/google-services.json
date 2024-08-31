@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1333658034",
+    "project_id": "cropmanagement-2c3a8",
+    "storage_bucket": "cropmanagement-2c3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1333658034:android:1d868cf1e03ec6b900a4ab",
+        "android_client_info": {
+          "package_name": "com.example.crop_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3fxRY8oW_BuPt5v4YtEoma136XZ1PwVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

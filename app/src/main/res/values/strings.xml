@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">Crop_Management</string>
+    <string name="title_activity_login" translatable="false">Login</string>
+    <string name="title_activity_weather_main" translatable="false">WeatherMainActivity</string>
+    <string name="default_web_client_id">1333658034-8pq2rrt9q0o7n2p3htm72nls67j9p29j.apps.googleusercontent.com</string>
+    <string name="title_activity_history" translatable="false">History</string>
+    <string name="title_activity_detailed_activityfor_product_history" translatable="false">
+        DetailedActivityfor_Product_History
+    </string>
+    <string name="title_activity_internet_my_friend" translatable="false">InternetMyFriend</string>
+    <string name="title_activity_calender_alert" translatable="false">CalenderALert</string>
+    <string name="title_activity_autoimageslider" translatable="false">Autoimageslider</string>
+    <string name="title_activity_notification_sender" translatable="false">NotificationSender</string>
+    <string name="title_activity_notification_handler" translatable="false">NotificationHandler</string>
+    <string name="title_activity_market_prices" translatable="false">MarketPrices</string>
+    <string name="title_activity_disease_managent" translatable="false">Disease_Managent</string>
+    <string name="title_activity_alarm_manager" translatable="false">AlarmManager</string>
+    <string name="title_activity_show_me_notification_using_work_manager" translatable="false">
+        ShowMeNotificationUsingWorkManager
+    </string>
+    <string name="title_activity_hour_converter" translatable="false">HourConverter</string>
+    <string name="title_activity_detailed_activityfor_notification" translatable="false">
+        DetailedActivityforNotification
+    </string>
+    <string name="title_activity_authentication" translatable="false">AuthenticationActivity</string>
+    <string name="title_activity_second" translatable="false">SecondActivity</string>
+    <string name="title_activity_plant_disease_detector" translatable="false">Plant_Disease_Detector</string>
+    <string name="title_activity_multilanguagl_application" translatable="false">MultilanguaglApplication</string>
+
+    <string name="subscibe">subscribe to this channel</string>
+    <string name="boy">He Goog Boy</string>
+    <string name="girl">She Is good Girl</string>
+    <string name="hello">Hello Everyone</string>
+    <string name="title_activity_multilang2" translatable="false">MultilangActivity2</string>
+
+    <string name="notification"> Notification</string>
+    <string name="settings">Settings</string>
+    <string name="aboutus">About US</string>
+    <string name="soldproducthistory">Sold Product History</string>
+    <string name="language">Language</string>
+
+
+    <string name="alerts">Important Alerts Reminder</string>
+    <string name="disease_detector">Disease Detector</string>
+    <string name="liveproduct_price">Live Product Market Price</string>
+    <string name="todaysweather">Today Weather</string>
+    <string name="logout">Today Weather</string>
+    <string name="selectlanguage">Please Select Your Language</string>
+
+    <string name="hin">Hindi</string>
+    <string name="eng">English</string>
+    <string name="mar">Marathi</string>
+
+    <string name="title_activity_language_selection" translatable="false">Language_selectionActivity</string>
+
+    <string name="selectDate">Please Select The Date</string>
+    <string name="alertset">Reminder Alert Set Successfully</string>
+    <string name="setalertButton">Set Reminder On This Date</string>
+
+    <string name="sellyourproducts">इस तिथि पर अलर्ट सेट करें</string>
+    <string name="eventname">Event Name</string>
+    <string name="eventexmple">Eg.. Sowing Wheat Seeds</string>
+
+
+</resources>
